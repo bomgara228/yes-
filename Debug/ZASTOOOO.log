@@ -1,0 +1,10 @@
+﻿  game.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(9,37): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(9,23): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(46,31): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(109,30): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(141,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(258,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(318,30): warning C4305: аргумент: усечение из "double" в "float"
+  LINK : не найден или не выполнена сборка C:\Users\st\Source\Repos\ZASTOOOO\Debug\ZASTOOOO.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ZASTOOOO.vcxproj -> C:\Users\st\Source\Repos\ZASTOOOO\Debug\ZASTOOOO.exe
